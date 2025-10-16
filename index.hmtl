@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MDNA Resonance Engine</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=Orbitron:wght@500;700&display-swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'IM Fell English SC', serif;
+            background: url('https://www.transparenttextures.com/patterns/wood-pattern.png'), #5c3d2e;
+            user-select: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            padding: 1rem;
+        }
+        /* Additional styles omitted for brevity */
+    </style>
+</head>
+<body>
+    <!-- Body content omitted for brevity -->
+</body>
+</html>
